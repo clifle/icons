@@ -1,4 +1,4 @@
 # icons
 
-Made by Clio Flego
-freely inspired by ant.design
+Made by Clio Flego. 
+Freely inspired by ant.design
